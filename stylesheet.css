@@ -1,0 +1,157 @@
+* {
+  margin: 0px;
+}
+
+#Header {
+  display: flex;
+  height: 66.5vh;
+  width: 100vw;
+  background-color: #FFCD9E;
+}
+#Footer {
+  display: flex;
+  height: 33.5vh;
+  width: 100vw;
+  background-color: #282828;
+}
+
+#UpperLeft {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 52.67%;
+}
+#UpperRight {
+  display: flex;
+  justify-content: center;
+  width: 47.33%;
+}
+#LowerLeft {
+  display: flex;
+  width: 50%;
+
+}
+
+#LowerRight {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+}
+
+#UpperLeftText1 {
+  font-size: 2rem;
+  padding: 3vh 0vw 0vh 8vw;
+  height: 5.75rem;
+  width: 32.5rem;
+  line-height: 3.1rem;
+  font-family: inter;
+  font-weight: 700;
+}
+#UpperLeftText2 {
+  font-size: 1.15rem;
+  padding: 3.14vh 0vw 0vh 8vw;
+  height: 4rem;
+  width: 30.3rem;
+  line-height: 1.7rem;
+  font-family: inter;
+  font-weight: 500;
+}
+
+#UpperLeftText3 {
+  font-size: 1.15rem;
+  padding: 5vh 0vw 0vh 8vw;
+  height: 3.75rem;
+  width: 13.1rem;
+  line-height: 1.7rem;
+  font-family: inter;
+  font-weight: 800;
+}
+
+#UpperLeftText4 {
+  font-size: 0.9rem;
+  padding: 3vh 0vw 0vh 10.7vw;
+  height: 3.2rem;
+  width: 19.8rem;
+  color: #ffffff;
+  font-family: inter;
+  font-weight: 800;
+}
+
+#Register {
+  display: flex;
+  padding-left: 8vw;
+  width: 33.3rem;
+  height: 3.4rem;
+}
+#Email {
+  font-size: 1.15rem;
+  padding: 15px 20px;
+  height: 100%;
+  width: 59.72%;
+  color: #888888;
+  box-sizing: border-box;
+  border-color: #000000;
+  border-radius: 0.5vw;
+  border-width: 3px;
+  font-family: inter;
+  font-weight: 600;
+}
+#Button {
+  font-size: 1.15rem;
+  margin-left: 1vw;
+  height: 100%;
+  width: 37.5%;
+  background-color: #000000;
+  color: #ffffff;
+  border: none;
+  border-radius: 0.5vw;
+  cursor: pointer;
+  font-family: inter;
+  font-weight: 700;
+}
+
+#TheMan {
+  padding-left: 3rem;
+  height: 70vh;
+}
+
+#LowerLeftList {
+  font-size: 1.15rem;
+  padding: 5vh 0vw 2.5vh 11.6vw;  
+  color: white;
+  list-style: none;
+  line-height: 2rem;
+  font-weight: 400;
+  font-family: inter;
+}
+
+
+#LowerRightList {
+  font-size: 1.15rem;
+  padding: 5vh 0vw 2.5vh 11.6vw;
+  list-style: none;
+  line-height: 2rem;
+  color: white;
+  text-align: end;
+  font-family: inter;
+  font-weight: 400;
+}
+
+#Logos {
+  padding-right;: 10px 
+}
+
+.Logo {
+height: 3.07vh;
+}
+
+.Lists {
+  color: white;
+  text-decoration: none;
+}
+
+
+
+
+/* DONE BY ZAMAN */
+
